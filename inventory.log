@@ -1,0 +1,16 @@
+2025-10-28 04:30:58,520 - INFO - Added 10 of apple
+2025-10-28 04:30:58,520 - INFO - Added 3 of banana
+2025-10-28 04:30:58,520 - INFO - Inventory data saved successfully.
+2025-10-28 04:30:58,521 - INFO - Inventory data loaded successfully.
+2025-10-28 04:34:18,532 - INFO - Inventory data loaded successfully from inventory.json
+2025-10-28 04:34:18,532 - INFO - Added 10 of apple
+2025-10-28 04:34:18,532 - INFO - Added 3 of banana
+2025-10-28 04:34:18,533 - INFO - Inventory data saved successfully to inventory.json
+2025-10-28 04:35:14,444 - INFO - Inventory data loaded successfully from inventory.json
+2025-10-28 04:35:14,444 - INFO - Added 10 of apple
+2025-10-28 04:35:14,444 - INFO - Added 3 of banana
+2025-10-28 04:35:14,445 - INFO - Inventory data saved successfully to inventory.json
+2025-10-28 04:37:59,678 - INFO - Inventory data loaded successfully from inventory.json
+2025-10-28 04:37:59,678 - INFO - Added 10 of apple
+2025-10-28 04:37:59,678 - INFO - Added 3 of banana
+2025-10-28 04:37:59,678 - INFO - Inventory data saved successfully to inventory.json
